@@ -5,17 +5,26 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/CatIcon2.png",
-    "userInterfaceStyle": "light",
+    "scheme": "catapp",
+    "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/CatSplash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
     "assetBundlePatterns": [
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "splash": {
+        "image": "./assets/CatSplash.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#ffffff"
+      }
     },
     "android": {
       "adaptiveIcon": {
