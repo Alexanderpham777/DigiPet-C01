@@ -9,7 +9,7 @@
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/CatSplash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "updates": {
@@ -19,14 +19,19 @@
       "**/*"
     ],
     "ios": {
+      "buildNumber": "1.0.0",
+      "bundleIdentifier": "com.AlexanderPham.sampleApp",
       "supportsTablet": true,
+      "icon": "./assets/CatIcon2.png",
       "splash": {
         "image": "./assets/CatSplash.png",
-        "resizeMode": "contain",
+        "resizeMode": "cover",
         "backgroundColor": "#ffffff"
       }
     },
     "android": {
+      "versionCode": 100,
+      "package": "com.AlexanderPham.sampleApp",
       "adaptiveIcon": {
         "foregroundImage": "./assets/CatIcon2.png",
         "backgroundColor": "#ffffff"
@@ -34,6 +39,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "caf783b7-4622-455d-b957-58abedab79df"
+      }
     }
   }
 }
