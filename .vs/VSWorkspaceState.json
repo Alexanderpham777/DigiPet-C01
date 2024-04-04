@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\images"
   ],
-  "SelectedNode": "\\App.js",
+  "SelectedNode": "\\assets\\images\\dance1.gif",
   "PreviewInSolutionExplorer": false
 }
