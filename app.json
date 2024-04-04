@@ -4,7 +4,7 @@
     "slug": "DigiPet-C01",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/CatIcon.png",
+    "icon": "./assets/CatIcon2.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/CatSplash.png",
@@ -19,7 +19,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/CatIcon.png",
+        "foregroundImage": "./assets/CatIcon2.png",
         "backgroundColor": "#ffffff"
       }
     },
