@@ -18,7 +18,8 @@ Users should monitor the pet's happiness and food levels to ensure its well-bein
 
 Known Issues  
 Sometimes the dance will not happen unless the bar is compelety zero, due to the image change being ties to the happiness and hunger bar.
-Haptic feed back is a hit or miss due to ios functions or code errors.
+Haptic feed back is a hit or miss due to ios functions or code errors.  
+there were other dependencies that are not listed nor used, as this was made during the planning phase. it may or may not affeect other parts of the system.  
   
 Overall this will be further develop into a final project as this was the most fun project created in this course.  
 
