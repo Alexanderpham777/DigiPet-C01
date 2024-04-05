@@ -1,9 +1,9 @@
 Dependencies
-React Native: Framework for building mobile applications using JavaScript and React.
-react-native-gesture-handler: Library for handling gestures in React Native applications.
-react-native-reanimated: Animation library for React Native.
-expo-av: Expo library for handling audio.
-expo: Toolkit for building universal React applications.
+React Native: Framework for building mobile applications using JavaScript and React.  
+react-native-gesture-handler: Library for handling gestures in React Native applications.  
+react-native-reanimated: Animation library for React Native.  
+expo-av: Expo library for handling audio.  
+expo: Toolkit for building universal React applications.  
 
 Usage
 Upon launching the application, users will see a virtual pet displayed on the screen.
